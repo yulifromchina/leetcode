@@ -23,7 +23,7 @@ This is my exercise for Leetcode.
 | 13   | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy       | C++      |
 | 14   | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy       | C++      |
 | 15   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy       | C++      |
-| 16   |                                          |            |          |
+| 16   | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy       | C++      |
 | 17   |                                          |            |          |
 | 18   |                                          |            |          |
 | 19   |                                          |            |          |
