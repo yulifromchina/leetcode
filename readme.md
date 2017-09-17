@@ -28,11 +28,11 @@ This is my exercise for Leetcode.
 | 18   | [Nim Game](https://leetcode.com/problems/nim-game) | Easy       | C++      |
 | 19   | [Single Number](https://leetcode.com/problems/single-number) | Easy       | C++      |
 | 20   | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy       | C++      |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
+| 21   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy       | C++      |
+| 22   | [Add Digits](https://leetcode.com/problems/add-digits) | Easy       | C++      |
+| 23   | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy       | C++      |
+| 24   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy       | C++      |
+| 25   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy       | C++      |
 |      |                                          |            |          |
 |      |                                          |            |          |
 |      |                                          |            |          |
