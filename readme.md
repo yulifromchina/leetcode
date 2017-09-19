@@ -33,6 +33,16 @@ This is my exercise for Leetcode.
 | 23   | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy       | C++      |
 | 24   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy       | C++      |
 | 25   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy       | C++      |
+| 26   | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy       | Easy     |
+| 27   | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy       | Easy     |
+| 28   | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy       | Easy     |
+| 29   | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy       | Easy     |
+| 30   | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Easy       | Easy     |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
 |      |                                          |            |          |
 |      |                                          |            |          |
 |      |                                          |            |          |
