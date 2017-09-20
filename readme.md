@@ -2,6 +2,8 @@
 
 This is my exercise for Leetcode.
 
+Easy: 1-35
+
 
 
 # Problems
@@ -33,18 +35,18 @@ This is my exercise for Leetcode.
 | 23   | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy       | C++      |
 | 24   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy       | C++      |
 | 25   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy       | C++      |
-| 26   | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy       | Easy     |
-| 27   | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy       | Easy     |
-| 28   | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy       | Easy     |
-| 29   | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy       | Easy     |
-| 30   | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Easy       | Easy     |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
-|      |                                          |            |          |
+| 26   | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy       | C++      |
+| 27   | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy       | C++      |
+| 28   | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy       | C++      |
+| 29   | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy       | C++      |
+| 30   | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Easy       | C++      |
+| 31   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy       | C++      |
+| 32   | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | Easy       | C++      |
+| 33   | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy       | C++      |
+| 34   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | Easy       | C++      |
+| 35   | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | Easy       | C++      |
+| 36   |                                          |            |          |
+| 37   |                                          |            |          |
+| 38   |                                          |            |          |
+| 39   |                                          |            |          |
 
