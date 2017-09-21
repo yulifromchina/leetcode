@@ -45,8 +45,9 @@ Easy: 1-35
 | 33   | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy       | C++      |
 | 34   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | Easy       | C++      |
 | 35   | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | Easy       | C++      |
-| 36   |                                          |            |          |
-| 37   |                                          |            |          |
-| 38   |                                          |            |          |
-| 39   |                                          |            |          |
+| 36   | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy       | C++      |
+| 37   | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy       | C++      |
+| 38   | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Easy       | C++      |
+| 39   | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy       | C++      |
+| 40   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy       | C++      |
 
