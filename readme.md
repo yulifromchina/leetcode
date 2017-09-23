@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-35
+Easy: 1-46
 
 
 
@@ -50,4 +50,10 @@ Easy: 1-35
 | 38   | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Easy       | C++      |
 | 39   | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy       | C++      |
 | 40   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy       | C++      |
+| 41   | [Same Tree](https://leetcode.com/problems/same-tree) | Easy       | C++      |
+| 42   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy       | C++      |
+| 43   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy       | C++      |
+| 44   | [Majority Element](https://leetcode.com/problems/majority-element) | Easy       | C++      |
+| 45   | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy       | C++      |
+| 46   | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy       | C++      |
 
