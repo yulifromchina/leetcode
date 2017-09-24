@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-46
+Easy: 1-51
 
 
 
@@ -56,4 +56,9 @@ Easy: 1-46
 | 44   | [Majority Element](https://leetcode.com/problems/majority-element) | Easy       | C++      |
 | 45   | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy       | C++      |
 | 46   | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy       | C++      |
+| 47   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy       | C++      |
+| 48   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy       | C++      |
+| 49   | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy       | C++      |
+| 50   | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy       | C++      |
+| 51   | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy       | C++      |
 
