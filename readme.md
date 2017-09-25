@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-51
+Easy: 1-57
 
 
 
@@ -61,4 +61,10 @@ Easy: 1-51
 | 49   | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy       | C++      |
 | 50   | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy       | C++      |
 | 51   | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy       | C++      |
+| 52   | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy       | C++      |
+| 53   | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy       | C++      |
+| 54   | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy       | C++      |
+| 55   | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy       | C++      |
+| 56   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy       | C++      |
+| 57   |                                          | Easy       | C++      |
 
