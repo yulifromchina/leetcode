@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-57
+Easy: 1-64
 
 
 
@@ -66,5 +66,12 @@ Easy: 1-57
 | 54   | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy       | C++      |
 | 55   | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy       | C++      |
 | 56   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy       | C++      |
-| 57   |                                          | Easy       | C++      |
+| 57   | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy       | C++      |
+| 58   | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | Easy       | C++      |
+| 59   | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy       | C++      |
+| 60   | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy       | C++      |
+| 61   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy       | C++      |
+| 62   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy       | C++      |
+| 63   | [Missing Number](https://leetcode.com/problems/missing-number) | Easy       | C++      |
+| 64   | [Base 7](https://leetcode.com/problems/base-7) | Easy       | C++      |
 
