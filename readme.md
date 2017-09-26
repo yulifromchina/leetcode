@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-64
+Easy: 1-68
 
 
 
@@ -74,4 +74,8 @@ Easy: 1-64
 | 62   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy       | C++      |
 | 63   | [Missing Number](https://leetcode.com/problems/missing-number) | Easy       | C++      |
 | 64   | [Base 7](https://leetcode.com/problems/base-7) | Easy       | C++      |
+| 65   | [Happy Number](https://leetcode.com/problems/happy-number) | Easy       | C++      |
+| 66   | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy       | C++      |
+| 67   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy       | C++      |
+| 68   | [Add Strings](https://leetcode.com/problems/add-strings) | Easy       | C++      |
 
