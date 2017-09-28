@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-68
+Easy: 1-73
 
 
 
@@ -78,4 +78,9 @@ Easy: 1-68
 | 66   | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy       | C++      |
 | 67   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy       | C++      |
 | 68   | [Add Strings](https://leetcode.com/problems/add-strings) | Easy       | C++      |
+| 69   | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy       | C++      |
+| 70   | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy       | C++      |
+| 71   | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy       | C++      |
+| 72   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Easy       | C++      |
+| 73   | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy       | C++      |
 
