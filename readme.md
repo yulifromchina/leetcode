@@ -2,7 +2,7 @@
 
 This is my exercise for Leetcode.
 
-Easy: 1-73
+Easy: 1-81
 
 
 
