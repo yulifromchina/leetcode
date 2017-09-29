@@ -83,4 +83,12 @@ Easy: 1-73
 | 71   | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy       | C++      |
 | 72   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Easy       | C++      |
 | 73   | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy       | C++      |
+| 74   | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy       | C++      |
+| 75   | [House Robber](https://leetcode.com/problems/house-robber) | Easy       | C++      |
+| 76   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy       | C++      |
+| 77   | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy       | C++      |
+| 78   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy       | C++      |
+| 79   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy       | C++      |
+| 80   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy       | C++      |
+| 81   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy       | C++      |
 
