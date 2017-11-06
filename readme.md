@@ -92,3 +92,11 @@ Easy: 1-81
 | 80   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy       | C++      |
 | 81   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy       | C++      |
 
+
+
+| #    | Title                                    | Difficulty | Solution |
+| ---- | ---------------------------------------- | ---------- | -------- |
+| 1    | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium     | C++      |
+| 2    | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium     | C++      |
+|      |                                          |            |          |
+
