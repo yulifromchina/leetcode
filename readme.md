@@ -4,6 +4,8 @@ This is my exercise for Leetcode.
 
 Easy: 1-81
 
+Medium: 201-204
+
 
 
 # Problems
@@ -96,7 +98,8 @@ Easy: 1-81
 
 | #    | Title                                    | Difficulty | Solution |
 | ---- | ---------------------------------------- | ---------- | -------- |
-| 1    | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium     | C++      |
-| 2    | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium     | C++      |
-|      |                                          |            |          |
+| 201  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium     | C++      |
+| 202  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium     | C++      |
+| 203  | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium     | C++      |
+| 204  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | C++      |
 
