@@ -4,7 +4,7 @@ This is my exercise for Leetcode.
 
 Easy: 1-81
 
-Medium: 201-205
+Medium: 301-305
 
 
 
@@ -98,9 +98,10 @@ Medium: 201-205
 
 | #    | Title                                    | Difficulty | Solution |
 | ---- | ---------------------------------------- | ---------- | -------- |
-| 201  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium     | C++      |
-| 202  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium     | C++      |
-| 203  | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium     | C++      |
-| 204  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | C++      |
-| 205  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium     | C++      |
+| 301  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium     | C++      |
+| 302  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium     | C++      |
+| 303  | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium     | C++      |
+| 304  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | C++      |
+| 305  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium     | C++      |
+| 306  | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | C++      |
 
