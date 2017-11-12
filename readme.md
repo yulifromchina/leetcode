@@ -4,7 +4,7 @@ This is my exercise for Leetcode.
 
 Easy: 1-81
 
-Medium: 301-305
+Medium: 301-308
 
 
 
@@ -104,4 +104,7 @@ Medium: 301-305
 | 304  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | C++      |
 | 305  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium     | C++      |
 | 306  | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | C++      |
+| 307  | [Subsets](https://leetcode.com/problems/subsets/) | Medium     | C++      |
+| 308  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium     | C++      |
+|      |                                          |            |          |
 
