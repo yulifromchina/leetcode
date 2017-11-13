@@ -106,5 +106,15 @@ Medium: 301-308
 | 306  | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | C++      |
 | 307  | [Subsets](https://leetcode.com/problems/subsets/) | Medium     | C++      |
 | 308  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium     | C++      |
+| 309  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium     | C++      |
+| 310  | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium     | C++      |
+| 311  | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | Medium     | C++      |
+| 312  |                                          | Medium     | C++      |
+| 312  |                                          | Medium     | C++      |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
+|      |                                          |            |          |
 |      |                                          |            |          |
 
